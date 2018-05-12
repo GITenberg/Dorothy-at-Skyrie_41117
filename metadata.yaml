@@ -1,0 +1,34 @@
+_repo: Dorothy-at-Skyrie_41117
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 41117-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Raymond, Evelyn
+    alias: Raymond, Evelyn Hunt
+    birthdate: 1843
+    deathdate: 1910
+    gutenberg_agent_id: '31472'
+    url: http://www.gutenberg.org/2009/agents/31472
+description: ''
+gutenberg_issued: '2012-10-20'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '41117'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Chester, Dorothy (Fictitious character) -- Juvenile fiction'
+- !lcsh 'Ponies -- Juvenile fiction'
+- !lcsh 'Social adjustment -- Juvenile fiction'
+- !lcsh 'Gold mines and mining -- Juvenile fiction'
+- !lcsh 'Farm life -- Juvenile fiction'
+- !lcsh 'Parents -- Juvenile fiction'
+- !lcsh 'Friendship -- Juvenile fiction'
+- !lcsh 'Families -- Juvenile fiction'
+- !lcc 'PZ'
+title: Dorothy at Skyrie
+url: http://www.gutenberg.org/ebooks/41117
